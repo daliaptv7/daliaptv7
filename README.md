@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Dalia 
 
-<!--
-**daliaptv7/daliaptv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in Data Science, Numerical Computation, and Technical Design.
 
-Here are some ideas to get you started:
+###  Tech Stack
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Data & Math:** NumPy, Pandas, Scikit-learn, SVD (Singular Value Decomposition)
+- **CAD & Design:** AutoCAD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Highlighted Projects
+
+* **[NYC Real Estate Price Prediction](./daliaptv7)**
+  - Market analysis and prediction model built with Python and Singular Value Decomposition (SVD).
+  - *Tech:* Python, NumPy, Pandas, SVD
+
+* **[AutoCAD Technical Portfolio](./daliaptv7)**
+  - Collection of 2D engineering drawings and 3D CAD models.
+  - *Tech:* AutoCAD
+
+* **[Web Development Project](./daliaptv7)**
+  - Interactive web page developed for high school certification.
+  - *Tech:* HTML, CSS, JavaScript
+
+###  Let's Connect
+- **LinkedIn:** [dalia-petrovici](https://linkedin.com/in/dalia-petrovici-75724839a)
