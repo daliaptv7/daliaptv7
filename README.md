@@ -9,15 +9,15 @@ Computer Engineering student interested in Data Science, Numerical Computation, 
 
 ###  Highlighted Projects
 
-* **[NYC Real Estate Price Prediction](./daliaptv7)**
+* **[NYC Real Estate Price Prediction](https://github.com/daliaptv7/NYC-Real-Estate-Price-Prediction)**
   - Market analysis and prediction model built with Python and Singular Value Decomposition (SVD).
   - *Tech:* Python, NumPy, Pandas, SVD
 
-* **[AutoCAD Technical Portfolio](./daliaptv7)**
+* **[AutoCAD Technical Portfolio](https://github.com/daliaptv7/AutoCAD-Technical-Portfolio)**
   - Collection of 2D engineering drawings and 3D CAD models.
   - *Tech:* AutoCAD
 
-* **[Web Development Project](./daliaptv7)**
+* **[Web Development Project](https://github.com/daliaptv7/Web-Development-Project)**
   - Interactive web page developed for high school certification.
   - *Tech:* HTML, CSS, JavaScript
 
