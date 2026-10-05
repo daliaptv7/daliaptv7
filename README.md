@@ -9,9 +9,10 @@ Computer Engineering student interested in Data Science, Numerical Computation, 
 
 ###  Highlighted Projects
 
-* **[NYC Real Estate Price Prediction](https://github.com/daliaptv7/NYC-Real-Estate-Price-Prediction)**
+* **[NYC Real Estate Price Prediction](https://github.com/mariatimbus/NYC_RealEstate)**
   - Market analysis and prediction model built with Python and Singular Value Decomposition (SVD).
-  - *Tech:* Python, NumPy, Pandas, SVD
+  - *Tech:* Python, NumPy, Pandas, Scikit-learn, SVD
+  - *Resources:* [View Repository](https://github.com/mariatimbus/NYC_RealEstate) | [View Notebook](https://github.com/mariatimbus/NYC_RealEstate/blob/main/NYC_RealEstate.ipynb)
 
 * **[AutoCAD Technical Portfolio](https://github.com/daliaptv7/AutoCAD-Technical-Portfolio)**
   - Collection of 2D engineering drawings and 3D CAD models.
